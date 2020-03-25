@@ -49,7 +49,7 @@ Enjoy :)
 * [React](https://reactjs.org/) - The JavaScript framework used
 * [Bootstrap](https://getbootstrap.com/) - CSS Framework
 * [Shards UI](https://designrevision.com/) - Bootstrap UI Toolkit
-* [Axios](https://sass-lang.com/) - CSS Pre-Processor
+* [Axios](https://www.npmjs.com/package/axios) - Module used for HTTP Requests
 * [React Twitch Embed Video](https://www.npmjs.com/package/react-twitch-embed-video) - Module used to embed the streams
 
 ## Acknowledgments
