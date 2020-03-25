@@ -13,7 +13,7 @@ export default function Header() {
         <nav className="navbar justify-content-center" style={{marginTop: '-20px'}}>
             <li className="nav-item nav-link text-dark">
                 <Link to={{
-                    pathname: "/pokiThick",
+                    pathname: "/pokiThicc",
                     state: {
                         name: poki.twitch_name,
                         member: poki

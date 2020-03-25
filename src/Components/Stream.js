@@ -7,22 +7,22 @@ export default function Stream({match,location}) {
     // const [pokiThick, toastyboi, scawwa, goblin, fedzoned, crackhead, comfychu] = members.member
     console.log(location.pathname)
     let watch;
-    if(location.pathname =="/offlinetv-watcher" || location.pathname == '/')
-        watch = 'offlinetv'
-    else
-        watch = location.state.name
+    // if(location.pathname =="/offlinetv-watcher" || location.pathname == '/')
+    //     watch = 'offlinetv'
+    // else
+    //     watch =location.state.name
     return (
         <div>
             <div id="stream">
             <ReactTwitchEmbedVideo 
-                channel={watch} 
+                channel={location.pathname == '/offlinetv-watcher' || location.pathname == '/' ? 'offlinetv' :  location.state.name} 
                 width="1031"
                 height="565"
                 layout="video"
                 targetID='twitch-embed' 
             />
             </div>
-            {location.pathname == "/" ? null :<Social info={location.state.member}/>}
+            {location.pathname == "/" || location.pathname == "/offlinetv-watcher" ? null :<Social info={location.state.member}/>}
             
         </div>
     )

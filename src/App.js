@@ -17,9 +17,9 @@ function App() {
     <Router>
       <Header />
       <Backdrop />
-      {/* <Route exact path="/" component={Stream}/> */}
-      <Route exact path="/offlinetv-watcher" component={Stream}/>
-      <Route exact path="/pokiThick" component={Stream}/>
+      <Route exact path="/" component={Stream}/>
+      <Route exact path="/offlinetv-watcher/" component={Stream}/>
+      <Route exact path="/pokiThicc" component={Stream}/>
       <Route exact path="/toastyboi" component={Stream}/>
       <Route exact path="/scawwa" component={Stream}/>
       <Route exact path="/goblin" component={Stream}/>
