@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "41d6f3544104b3689bc5c4ce00a1c92e",
+    "revision": "8b2e567afc251acaed4572d6f1d84a9a",
     "url": "/offlinetv-watcher/index.html"
   },
   {
