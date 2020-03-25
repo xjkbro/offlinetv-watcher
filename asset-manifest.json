@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/offlinetv-watcher/static/css/main.1141510f.chunk.css",
+    "main.js": "/offlinetv-watcher/static/js/main.bddd860d.chunk.js",
+    "main.js.map": "/offlinetv-watcher/static/js/main.bddd860d.chunk.js.map",
+    "runtime-main.js": "/offlinetv-watcher/static/js/runtime-main.c43ae9ea.js",
+    "runtime-main.js.map": "/offlinetv-watcher/static/js/runtime-main.c43ae9ea.js.map",
+    "static/css/2.029a8882.chunk.css": "/offlinetv-watcher/static/css/2.029a8882.chunk.css",
+    "static/js/2.71885e1d.chunk.js": "/offlinetv-watcher/static/js/2.71885e1d.chunk.js",
+    "static/js/2.71885e1d.chunk.js.map": "/offlinetv-watcher/static/js/2.71885e1d.chunk.js.map",
+    "index.html": "/offlinetv-watcher/index.html",
+    "precache-manifest.1d4826a8c0c463137a28f6e3a784924e.js": "/offlinetv-watcher/precache-manifest.1d4826a8c0c463137a28f6e3a784924e.js",
+    "service-worker.js": "/offlinetv-watcher/service-worker.js",
+    "static/css/2.029a8882.chunk.css.map": "/offlinetv-watcher/static/css/2.029a8882.chunk.css.map",
+    "static/css/main.1141510f.chunk.css.map": "/offlinetv-watcher/static/css/main.1141510f.chunk.css.map",
+    "static/js/2.71885e1d.chunk.js.LICENSE.txt": "/offlinetv-watcher/static/js/2.71885e1d.chunk.js.LICENSE.txt",
+    "static/media/Offline_TV_Logo.png": "/offlinetv-watcher/static/media/Offline_TV_Logo.f7b02594.png",
+    "static/media/instagram.png": "/offlinetv-watcher/static/media/instagram.473f5dbe.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c43ae9ea.js",
+    "static/css/2.029a8882.chunk.css",
+    "static/js/2.71885e1d.chunk.js",
+    "static/css/main.1141510f.chunk.css",
+    "static/js/main.bddd860d.chunk.js"
+  ]
+}
