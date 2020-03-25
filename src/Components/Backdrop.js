@@ -20,7 +20,7 @@ export default function Backdrop() {
         let found = true;
         console.log(path.link_flair_css_class)
         while(found) {
-            if(path.link_flair_css_class == "meme" ) {
+            if(path.link_flair_text == "Image" ) {
                 found = false;
                 setImg(path.url)
                 console.log(img)
