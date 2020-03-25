@@ -1,0 +1,81 @@
+body, html { 
+    overflow-x: hidden; 
+    overflow-y: hidden;
+}
+
+#otvimg {
+    position: absolute;
+    left: 50%;
+    width: 360px;
+    height: 360px;
+    top: 30px;
+    transform: translateX(-50%);
+}
+
+#stream {
+    position: absolute;
+    left: 50%;
+    bottom: 20px;
+    transform: translate(-50%, 0%);
+    z-index: -2;
+}
+
+#topBar {
+    position: absolute;
+    width: 3992px;
+    height: 59px;
+    top: -15px;
+    background: rgba(96, 96, 96, 0.25);
+    z-index: -1;
+}
+
+#darkBar{
+    position: absolute;
+    width: 4049px;
+    height: 3586px;
+    left: 1965.1px;
+    top: -205px;
+
+    background: #212121;
+    box-shadow: -20px 0px 15px rgba(0, 0, 0, 0.25);
+    transform: rotate(54.56deg);
+    z-index: -5;
+    overflow: hidden;
+} 
+#yellowBar {
+    position: absolute;
+    width: 2013px;
+    height: 3745.23px;
+    left: 1803px;
+    top: -642.23px;
+
+    background: #F5E52D;
+    box-shadow: -15px 0px 15px rgba(0, 0, 0, 0.25);
+    transform: rotate(-24.35deg);
+    z-index: -10;
+    overflow: hidden;
+}
+#social {
+    position: absolute;
+    right: 15%;
+    bottom: 10px;
+}
+#social li {
+    padding: 5px;
+    text-align: center;
+}
+#social li a img {
+    border-radius: 50%;
+
+}
+#bg {
+    position: absolute;
+    z-index: -20;
+    width: auto;
+    height: 100%;
+    top: 0px;
+}
+
+@media screen and (max-width:1200px) {
+
+}

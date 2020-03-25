@@ -1,0 +1,63 @@
+{
+    "member":
+    [
+        {
+            "name": "Imane Anys",
+            "twitch_name": "pokimane",
+            "yt_url": "https://www.youtube.com/user/Pokimane",
+            "ig_url": "https://www.instagram.com/pokimanelol/",
+            "twitter_url": "https://twitter.com/pokimanelol",
+            "web_url": "https://pokimerch.com/"
+        },
+        {
+            "name": "Jeremy Wang",
+            "twitch_name": "disguisedtoast",
+            "yt_url": "https://www.youtube.com/channel/UCUT8RoNBTJvwW1iErP6-b-A",
+            "ig_url": "https://www.instagram.com/disguisedtoast/",
+            "twitter_url": "https://twitter.com/disguisedtoast",
+            "web_url": "https://disguisedtoast.com/"
+        },
+        {
+            "name": "William Li",
+            "twitch_name": "scarra",
+            "yt_url": "https://www.youtube.com/user/scarraofficial",
+            "ig_url": "https://www.instagram.com/scarraa/",
+            "twitter_url": "https://twitter.com/scarra",
+            "web_url": "https://www.instagram.com/scarraa/"
+        },
+        {
+            "name": "Yvonnie Ng",
+            "twitch_name": "yvonnie",
+            "yt_url": "https://www.youtube.com/channel/UCgDvko7FcHndaS-QoLJw_PA",
+            "ig_url": "https://www.instagram.com/yvonnieng/",
+            "twitter_url": "https://twitter.com/yvonnie",
+            "web_url": "https://www.instagram.com/yvonnieng/"
+        },
+        {
+            "name": "Federico Gaytan ",
+            "twitch_name": "Fedmyster",
+            "yt_url": "https://www.youtube.com/channel/UCOmXyEquWIIo1uAj_2LN4UA",
+            "ig_url": "https://www.instagram.com/fedmyster/",
+            "twitter_url": "https://twitter.com/fedmyster",
+            "web_url": "https://metathreads.com/collections/fedmyster"
+        },
+        {
+            "name": "Michael Reeves",
+            "twitch_name": "michael_reeves",
+            "yt_url": "https://www.youtube.com/channel/michaelreeves",
+            "ig_url": "https://www.instagram.com/michaelreeves808/",
+            "twitter_url": "https://twitter.com/michaelreeves",
+            "web_url": "https://michaelreeves.us/"
+        },
+        {
+            "name": "Lily Ki",
+            "twitch_name": "LilyPichu",
+            "yt_url": "https://www.youtube.com/user/LilyPichu",
+            "ig_url": "https://www.instagram.com/LilyPichu/",
+            "twitter_url": "https://twitter.com/LilyPichu",
+            "web_url": "https://lilypichustore.com/"
+        }
+    ]
+    
+}
+
