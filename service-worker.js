@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/offlinetv-watcher/precache-manifest.3ee5db4889655ff0c48036ff236a762d.js"
+  "/offlinetv-watcher/precache-manifest.c057aef8eb66ab84850e336ead4595a2.js"
 );
 
 self.addEventListener('message', (event) => {

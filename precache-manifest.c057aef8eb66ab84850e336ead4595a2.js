@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "45c80d6b72e0a0faabacb5145f768fb3",
+    "revision": "3842e36c51275aef729f2b689147faf4",
     "url": "/offlinetv-watcher/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/offlinetv-watcher/static/css/2.029a8882.chunk.css"
   },
   {
-    "revision": "50126e3482e42edf5051",
+    "revision": "f17b576feb4ed19f13a9",
     "url": "/offlinetv-watcher/static/css/main.1141510f.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/offlinetv-watcher/static/js/2.71885e1d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "50126e3482e42edf5051",
-    "url": "/offlinetv-watcher/static/js/main.3feb3a0f.chunk.js"
+    "revision": "f17b576feb4ed19f13a9",
+    "url": "/offlinetv-watcher/static/js/main.0de843d1.chunk.js"
   },
   {
     "revision": "643014a2cf82041fa739",
