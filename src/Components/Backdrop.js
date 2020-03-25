@@ -37,16 +37,16 @@ export default function Backdrop() {
         <div>
 
             <Link to={{
-                    pathname: "/",
+                    pathname: "/offlinetv-watcher",
                     state: {
                         name: 'offlinetv',
                         member: {
-                            "name": "Imane Anys",
+                            "name": "OfflineTV",
                             "twitch_name": "offlinetv",
-                            "yt_url": "https://www.youtube.com/user/Pokimane",
-                            "ig_url": "https://www.instagram.com/pokimanelol/",
-                            "twitter_url": "https://twitter.com/pokimanelol",
-                            "web_url": "https://pokimerch.com/"
+                            "yt_url": "#",
+                            "ig_url": "#",
+                            "twitter_url": "#",
+                            "web_url": "#"
                         }
                     }
                 }}><img id="otvimg" src={OTV} /></Link>
