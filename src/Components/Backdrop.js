@@ -37,7 +37,7 @@ export default function Backdrop() {
         <div>
 
             <Link to={{
-                    pathname: "/offlinetv-watcher",
+                    pathname: "/offlinetv-watcher/",
                     state: {
                         name: 'offlinetv',
                         member: {

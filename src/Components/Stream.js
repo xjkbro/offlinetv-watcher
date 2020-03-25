@@ -15,14 +15,14 @@ export default function Stream({match,location}) {
         <div>
             <div id="stream">
             <ReactTwitchEmbedVideo 
-                channel={location.pathname == '/offlinetv-watcher' || location.pathname == '/' ? 'offlinetv' :  location.state.name} 
+                channel={location.pathname == '/offlinetv-watcher' ||location.pathname == '/offlinetv-watcher/'? 'offlinetv' :  location.state.name} 
                 width="1031"
                 height="565"
                 layout="video"
                 targetID='twitch-embed' 
             />
             </div>
-            {location.pathname == "/" || location.pathname == "/offlinetv-watcher" ? null :<Social info={location.state.member}/>}
+            {location.pathname == "/offlinetv-watcher" || location.pathname == '/offlinetv-watcher/' ? null :<Social info={location.state.member}/>}
             
         </div>
     )

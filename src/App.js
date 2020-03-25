@@ -17,15 +17,15 @@ function App() {
     <Router>
       <Header />
       <Backdrop />
-      <Route exact path="/" component={Stream}/>
+      <Route exact path="//offlinetv-watcher" component={Stream}/>
       <Route exact path="/offlinetv-watcher/" component={Stream}/>
-      <Route exact path="/pokiThicc" component={Stream}/>
-      <Route exact path="/toastyboi" component={Stream}/>
-      <Route exact path="/scawwa" component={Stream}/>
-      <Route exact path="/goblin" component={Stream}/>
-      <Route exact path="/fedzoned" component={Stream}/>
-      <Route exact path="/crackhead" component={Stream}/>
-      <Route exact path="/comfychu" component={Stream}/>
+      <Route exact path="/offlinetv-watcher/pokiThicc" component={Stream}/>
+      <Route exact path="/offlinetv-watcher/toastyboi" component={Stream}/>
+      <Route exact path="/offlinetv-watcher/scawwa" component={Stream}/>
+      <Route exact path="/offlinetv-watcher/goblin" component={Stream}/>
+      <Route exact path="/offlinetv-watcher/fedzoned" component={Stream}/>
+      <Route exact path="/offlinetv-watcher/crackhead" component={Stream}/>
+      <Route exact path="/offlinetv-watcher/comfychu" component={Stream}/>
       
     </Router>
   );

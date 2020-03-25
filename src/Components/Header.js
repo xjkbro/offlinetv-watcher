@@ -13,7 +13,7 @@ export default function Header() {
         <nav className="navbar justify-content-center" style={{marginTop: '-20px'}}>
             <li className="nav-item nav-link text-dark">
                 <Link to={{
-                    pathname: "/pokiThicc",
+                    pathname: "/offlinetv-watcher/pokiThicc",
                     state: {
                         name: poki.twitch_name,
                         member: poki
@@ -22,7 +22,7 @@ export default function Header() {
             </li>   
             <li className="nav-item nav-link">
                 <Link to={{
-                    pathname: "/toastyboi",
+                    pathname: "/offlinetv-watcher/toastyboi",
                     state: {
                         name: toast.twitch_name,
                         member: toast
@@ -31,7 +31,7 @@ export default function Header() {
             </li>
             <li className="nav-item nav-link">
                 <Link to={{
-                    pathname: "/scawwa",
+                    pathname: "/offlinetv-watcher/scawwa",
                     state: {
                         name: scarra.twitch_name,
                         member: scarra
@@ -40,7 +40,7 @@ export default function Header() {
             </li>   
             <li className="nav-item nav-link">
                 <Link to={{
-                    pathname: "/goblin",
+                    pathname: "/offlinetv-watcher/goblin",
                     state: {
                         name: yvonnie.twitch_name,
                         member: yvonnie
@@ -49,7 +49,7 @@ export default function Header() {
             </li>   
             <li className="nav-item nav-link">
                 <Link to={{
-                    pathname: "/fedzoned",
+                    pathname: "/offlinetv-watcher/fedzoned",
                     state: {
                         name: fed.twitch_name,
                         member: fed
@@ -58,7 +58,7 @@ export default function Header() {
             </li>
             <li className="nav-item nav-link">
                 <Link to={{
-                    pathname: "/crackhead",
+                    pathname: "/offlinetv-watcher/crackhead",
                     state: {
                         name: michael.twitch_name,
                         member: michael
@@ -67,7 +67,7 @@ export default function Header() {
             </li>
             <li className="nav-item nav-link">
                 <Link to={{
-                    pathname: "/comfychu",
+                    pathname: "/offlinetv-watcher/comfychu",
                     state: {
                         name: lily.twitch_name,
                         member: lily
